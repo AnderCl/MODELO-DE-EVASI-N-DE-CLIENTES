@@ -1,4 +1,4 @@
-# Proyecto de Predicción de Churn en TELECOM X
+# MODELO PREDICTIVO PARA LA PERDIDA DE CLIENTES
 
 ## Descripción General
 
